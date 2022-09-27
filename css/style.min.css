@@ -2,6 +2,13 @@
  * Roxy: Bootstrap template by GettTemplates.com
  * https://gettemplates.co/roxy
  */
+
+.Avatar {
+  border-radius: 50%;
+  background-color: #fff;
+  padding: 24px;
+}
+
 html, body {
   width: 100%;
   overflow-x: hidden; }
